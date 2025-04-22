@@ -12,7 +12,7 @@
 
 ## お試しデモサイトがこちら〜😍🔥
 マジ使ってみて〜！ヤバいくらい便利だから！！🤳💕<br>
-https://crt-filter-studio.pages.dev/ （※デプロイ後のURL予定）
+https://crt-filter-studio.pages.dev/
 
 ## 💫 最新リリース v1 💫
 [2025/04/22]やったー！初めてのv1をリリースしたよ〜！🎊🚀<br>
