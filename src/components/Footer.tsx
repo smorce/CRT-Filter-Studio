@@ -5,7 +5,7 @@ const Footer: React.FC = () => {
     <footer className="bg-gray-800 border-t border-gray-700 py-4">
       <div className="container mx-auto px-4 text-center text-sm text-gray-400">
         <p>RetroTube CRT Filter © {new Date().getFullYear()}</p>
-        <p className="mt-1">Created with ❤️ for retro enthusiasts</p>
+        <p className="mt-1">Created with ❤️ smorce</p>
       </div>
     </footer>
   );
